@@ -18,5 +18,5 @@ Logger* Logger::getLogger(){
 }
 
 void Logger::log(const string s) {
-    cout << s;
+    cout << s << endl;
 }

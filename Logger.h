@@ -14,7 +14,6 @@ class Logger {
 
 public:
 
-
     void log(const string);
     static Logger* getLogger();
 
