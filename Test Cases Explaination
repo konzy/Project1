@@ -1,0 +1,6 @@
+1. Default Constructor and accessors are called
+2. Mutators are used
+3. Accessors are called again to verify
+4. Operator= is used and tested between both objects
+5. Copy constructor is used and tested between both objects
+6. Edge cases are tested.
